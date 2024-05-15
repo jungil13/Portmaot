@@ -26,7 +26,7 @@ const icons = [
 <template>
   <v-app class="">
     <v-app-bar app>
-      <img src="/logo.png" alt="Logo" width="100"  height="50" class="logo ml-14">
+        <img src="/logo.png" alt="Logo" width="100"  height="50" class="logo ml-2">
       <v-toolbar-title :to="{ path: '/' }" class="cursor-pointer mr-2">
       ||  J U N G I L
       </v-toolbar-title>
